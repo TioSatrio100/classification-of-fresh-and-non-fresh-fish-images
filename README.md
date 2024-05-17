@@ -1,2 +1,3 @@
-# classification-of-fresh-and-non-fresh-fish-images
-Classifying fresh and non-fresh fish images using TensorFlow so that fish distribution from producers and consumers can be well maintained and helps increase fish sales productivity
+# Classification Of Fresh And Non-Fresh Fish Images Using Tensorflow 
+Based on data from the Ministry of Maritime Affairs and Fisheries (KKP), the figure for fish consumption in Indonesia is 56.48 kilograms (kg) per capita in 2022. This number has increased by 2.39% compared to 2021 which was 55.16 kg/capita, Indonesia is a big player in fish industry and consumption, therefore technology is needed to find out whether the fish supplied to the market is still fresh or not. From this problem I created this classification project so that fish distribution from producers and consumers can be well maintained and helps increase fish sales productivity
+ 
